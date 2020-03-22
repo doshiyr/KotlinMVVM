@@ -1,9 +1,9 @@
-# kotlin-mvvm
+# Kotlin MVVM
 
 MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData, the libraries Retrofit.
 
 ## MVVM Pattern (Model View ViewModel)
- <img src="assets/AndroidMVVM.png">
+<img src="assets/AndroidMVVM.png" height="360">
  
 ## Demo
 
@@ -11,7 +11,7 @@ MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, Live
  
 ## Screenshots
 
-<img src="assets/screenshot.jpg" height="480"> <img src="assets/screenshot_error.jpg" height="480"> <img src="assets/screenshot_loading.jpg" height="480">
+<img src="assets/screenshot.jpg" height="480">  <img src="assets/screenshot_loading.jpg" height="480">  <img src="assets/screenshot_error.jpg" height="480">
 
 ## Dependencies
 
